@@ -4,7 +4,7 @@
 <radialGradient id="glow" cx="980" cy="210" r="340" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5eead4" stop-opacity=".35"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
 <style>
 .f{font-family:Menlo,Consolas,'DejaVu Sans Mono',monospace}
-.a{opacity:0;animation:in .8s ease forwards}
+.a{animation:in .8s ease backwards}
 @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 .c{animation:b 1s steps(1) infinite}
 @keyframes b{50%{opacity:0}}
