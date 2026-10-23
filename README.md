@@ -15,10 +15,9 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://img.shields.io/badge/LinkedIn-Connect-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220"/></a>
+<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220"/></a>
 <a href="https://github.com/sarveshsuhaskute"><img src="https://img.shields.io/badge/GitHub-Follow-60a5fa?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220"/></a>
-<a href="https://leetcode.com/u/SarveshSuhasKute/"><img src="https://img.shields.io/badge/LeetCode-60a5fa?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0b1220"/></a>
-<a href="https://sarveshsuhaskute.github.io"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b1220"/></a>
+<a href="https://sarveshsuhaskute.github.io"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge"/></a>
 <a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-60a5fa?style=for-the-badge&logo=readme&logoColor=white&labelColor=0b1220"/></a>
 <a href="mailto:sarveshkute21@gmail.com"><img src="https://img.shields.io/badge/Email-Write-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220"/></a>
 
