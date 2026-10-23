@@ -149,5 +149,9 @@ Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-opti
 
 </div>
 
+## ◆ Activity
+
+<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/activity.svg?v=1" width="100%" alt="GitHub activity: contributions in the last year, active days, longest streak and language mix" /></div>
+
 <img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/rule.svg?v=1" width="100%" alt="" />
 
