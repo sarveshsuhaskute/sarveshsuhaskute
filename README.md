@@ -14,11 +14,11 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/nav-linkedin.svg?v=1" alt="LinkedIn" /></a>
-<a href="https://github.com/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/nav-github.svg?v=1" alt="GitHub" /></a>
-<a href="https://sarveshsuhaskute.github.io"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/nav-portfolio.svg?v=1" alt="Portfolio" /></a>
-<a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/nav-resume.svg?v=1" alt="Resume" /></a>
-<a href="mailto:sarveshkute21@gmail.com"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/nav-email.svg?v=1" alt="Email" /></a>
+<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/go-linkedin.svg?v=1" alt="LinkedIn" /></a>
+<a href="https://github.com/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/go-github.svg?v=1" alt="GitHub" /></a>
+<a href="https://sarveshsuhaskute.github.io"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/go-portfolio.svg?v=1" alt="Portfolio" /></a>
+<a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/go-resume.svg?v=1" alt="Resume" /></a>
+<a href="mailto:sarveshkute21@gmail.com"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/go-email.svg?v=1" alt="Email" /></a>
 
 <br/><br/>
 
