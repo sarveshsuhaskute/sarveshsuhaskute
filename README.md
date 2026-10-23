@@ -3,22 +3,22 @@
 <img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/hero-blue.svg?v=1" alt="Sarvesh Suhas Kute: Systems, Databases, Networking" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+VIT+Vellore;Linux+internals+%7C+eBPF+%7C+Databases;Flask+%7C+MySQL+%7C+Python+%7C+C;850ms+to+120ms+on+500k%2B+rows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+VIT+Vellore;Linux+internals+%7C+eBPF+%7C+Databases;Flask+%7C+MySQL+%7C+Python+%7C+C;850ms+to+120ms+on+500k%2B+rows" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-1c1f24?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/VIT-Vellore%20%7C%202028-0b0b0b?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/CGPA-9.36-1c1f24?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-1e3a8a?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/VIT-Vellore%20%7C%202028-1e3a8a?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CGPA-9.36-1e3a8a?style=flat-square&labelColor=000000"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/ln-linkedin.svg?v=2" alt="LinkedIn" /></a>
-<a href="https://github.com/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/ln-github.svg?v=2" alt="GitHub" /></a>
-<a href="https://sarveshsuhaskute.github.io"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/ln-portfolio.svg?v=2" alt="Portfolio" /></a>
-<a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/ln-resume.svg?v=2" alt="Resume" /></a>
-<a href="mailto:sarveshkute21@gmail.com"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/ln-email.svg?v=2" alt="Email" /></a>
+<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/nav-linkedin.svg?v=1" alt="LinkedIn" /></a>
+<a href="https://github.com/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/nav-github.svg?v=1" alt="GitHub" /></a>
+<a href="https://sarveshsuhaskute.github.io"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/nav-portfolio.svg?v=1" alt="Portfolio" /></a>
+<a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/nav-resume.svg?v=1" alt="Resume" /></a>
+<a href="mailto:sarveshkute21@gmail.com"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/nav-email.svg?v=1" alt="Email" /></a>
 
 <br/><br/>
 
