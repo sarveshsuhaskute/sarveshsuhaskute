@@ -99,33 +99,33 @@ Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-opti
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/JavaScript-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Java-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=python&logoColor=60a5fa" alt="Python"/>
+<img src="https://img.shields.io/badge/C-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=c&logoColor=60a5fa" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=cplusplus&logoColor=60a5fa" alt="C++"/>
+<img src="https://img.shields.io/badge/JavaScript-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=javascript&logoColor=60a5fa" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Java-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=openjdk&logoColor=60a5fa" alt="Java"/>
 <img src="https://img.shields.io/badge/SQL-1c1f24?style=for-the-badge&labelColor=1c1f24" alt="SQL"/>
 <br/><br/>
 
 **Backend & Web**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/Flask-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/React-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/JWT-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Node.js-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=nodedotjs&logoColor=60a5fa" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=express&logoColor=60a5fa" alt="Express"/>
+<img src="https://img.shields.io/badge/Flask-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=flask&logoColor=60a5fa" alt="Flask"/>
+<img src="https://img.shields.io/badge/React-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=react&logoColor=60a5fa" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=nextdotjs&logoColor=60a5fa" alt="Next.js"/>
+<img src="https://img.shields.io/badge/JWT-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=jsonwebtokens&logoColor=60a5fa" alt="JWT"/>
 <br/><br/>
 
 **Databases**
 <br/>
-<img src="https://img.shields.io/badge/MySQL-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=mysql&logoColor=60a5fa" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=postgresql&logoColor=60a5fa" alt="PostgreSQL"/>
 <br/><br/>
 
 **Systems & Networking**
 <br/>
-<img src="https://img.shields.io/badge/Linux-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Linux-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=linux&logoColor=60a5fa" alt="Linux"/>
 <img src="https://img.shields.io/badge/eBPF-1c1f24?style=for-the-badge&labelColor=1c1f24" alt="eBPF"/>
 <img src="https://img.shields.io/badge/POSIX-0b0b0b?style=for-the-badge&labelColor=0b0b0b" alt="POSIX"/>
 <img src="https://img.shields.io/badge/TCP%2FUDP-1c1f24?style=for-the-badge&labelColor=1c1f24" alt="TCP/UDP"/>
@@ -142,16 +142,16 @@ Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-opti
 
 **DevOps & Tools**
 <br/>
-<img src="https://img.shields.io/badge/Git-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Docker-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Git-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=git&logoColor=60a5fa" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-0b0b0b?style=for-the-badge&labelColor=0b0b0b&logo=docker&logoColor=60a5fa" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-1c1f24?style=for-the-badge&labelColor=1c1f24&logo=githubactions&logoColor=60a5fa" alt="GitHub Actions"/>
 <br/><br/>
 
 </div>
 
 ## ◆ Activity
 
-<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/activity-card.svg?v=1" width="100%" alt="GitHub activity: contributions in the last year, active days, longest streak " /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/activity-blue.svg?v=1" width="100%" alt="GitHub activity: contributions in the last year, active days, longest streak " /></div>
 
 <img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/rule.svg?v=2" width="100%" alt="" />
 

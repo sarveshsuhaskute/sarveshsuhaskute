@@ -1,4 +1,4 @@
-"""Render assets/activity-card.svg from the GitHub API: contribution heatmap and stats."""
+"""Render assets/activity-blue.svg from the GitHub API: contribution heatmap and stats."""
 import json, os, urllib.request
 from datetime import date
 
@@ -29,7 +29,7 @@ repos = [r for r in call(f"https://api.github.com/users/{USER}/repos?per_page=10
 
 W, CELL, GAP, X0, Y0 = 1200, 17, 4, 40, 96
 mx = max((d["contributionCount"] for d in days), default=1) or 1
-palette = ["#111111", "#2b2f36", "#4b5159", "#9da7b3", "#ffffff"]
+palette = ["#111111", "#1e3a8a", "#2563eb", "#60a5fa", "#bfdbfe"]
 
 
 def level(n):
@@ -61,5 +61,5 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="272" viewB
 <text x="800" y="74" font-size="13" fill="#8b949e">own repositories</text>
 {chr(10).join(cells)}
 </svg>'''
-open("assets/activity-card.svg", "w").write(svg)
+open("assets/activity-blue.svg", "w").write(svg)
 print("ok", total, active, longest)
