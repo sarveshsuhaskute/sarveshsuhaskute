@@ -6,7 +6,7 @@ I build systems-flavoured software: Linux internals, databases, and applied ML. 
 
 - **[ai-file-prefetcher](https://github.com/sarveshsuhaskute/ai-file-prefetcher-)**: AI-based file prefetching for Linux using eBPF, online sequential pattern mining, and confidence-driven cache actuation.
 - **[RouteWise (TransitIQ)](https://github.com/sarveshsuhaskute/RouteWise)**: role-based public transport management on Flask and MySQL, with triggers, transactions, a least-privilege DB user, window functions and 46 tests.
-- **[network-service-platform](https://github.com/sarveshsuhaskute/network-service-platform)**: Python networking services platform.
+- **[network-service-platform](https://github.com/sarveshsuhaskute/network-service-platform)**: TCP/UDP socket platform serving echo, file transfer and an RFC 1035 DNS service from one process, with logging, failure handling and benchmarks. Standard library only.
 
 ## Tech
 
