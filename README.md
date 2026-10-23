@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sarvesh Suhas Kute: B.Tech CSE at VIT Vellore" width="100%" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/banner.svg?v=2" alt="Sarvesh Suhas Kute: B.Tech CSE at VIT Vellore" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=5EEAD4&center=true&vCenter=true&width=900&height=45&lines=Systems+%7C+Databases+%7C+Networking;Linux+internals+and+eBPF;12+REST+APIs%2C+850ms+to+120ms;257x+faster+queries+with+indexing" alt="typing" />
 
@@ -13,13 +13,13 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/divider.svg?v=2" width="100%" alt="" />
 
-<img src="assets/h-about.svg" width="100%" alt="about" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/h-about.svg?v=2" width="100%" alt="about" />
 
-<div align="center"><img src="assets/terminal.svg" width="100%" alt="About Sarvesh: B.Tech CSE at VIT Vellore, builds systems, databases and ML. Software engineering intern at Supertech." /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/terminal.svg?v=2" width="100%" alt="About Sarvesh: B.Tech CSE at VIT Vellore, builds systems, databases and ML. Software engineering intern at Supertech." /></div>
 
-<img src="assets/h-work.svg" width="100%" alt="selected work" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/h-work.svg?v=2" width="100%" alt="selected work" />
 
 <table>
 <tr>
@@ -74,13 +74,13 @@ Local bug-repair system where two fixers, a critic and a judge debate a patch. O
 
 Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-optimization-for-llm) (team), with 9 optimisation techniques on a computation-graph IR.
 
-<img src="assets/h-stack.svg" width="100%" alt="stack" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/h-stack.svg?v=2" width="100%" alt="stack" />
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,react,nodejs,flask,mysql,postgres,linux,docker,git,github,githubactions&theme=dark" alt="skills" />
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/divider.svg?v=2" width="100%" alt="" />
 
 <div align="center">
 
