@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Console: Supertech API 850 ms to 120 ms on 500,000+ rows, RouteWise 257x faster queries after indexing, file prefetcher 99.25% cache hit rate matching kernel readahead.">
-<defs><linearGradient id="ag" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#8b949e"/></linearGradient><style>
+<defs><linearGradient id="ag" x1="0" x2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#2563eb"/></linearGradient><style>
 .f{font-family:'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
 .p1,.p2,.h1,.h2{opacity:0}
 .pn{animation:slot 12s infinite}
@@ -13,24 +13,24 @@
 </style></defs>
 <rect x="1" y="1" width="1198" height="438" rx="22" fill="#000000" stroke="#2b2f36" stroke-width="2"/>
 <rect x="30" y="26" width="370" height="76" rx="14" fill="#0a0a0a" stroke="#2b2f36"/>
-<rect class="hl h0 pn d0" x="30" y="26" width="370" height="76" rx="14" fill="#141414" stroke="url(#ag)" style="opacity:1"/>
+<rect class="hl h0 pn d0" x="30" y="26" width="370" height="76" rx="14" fill="#0a1530" stroke="url(#ag)" style="opacity:1"/>
 <circle cx="60" cy="56" r="8" fill="url(#ag)"/>
 <g class="f"><text x="86" y="52" font-size="20" fill="#f0f6fc">Supertech API</text><text x="86" y="78" font-size="13" letter-spacing="2" fill="url(#ag)">PLANT DASHBOARD</text></g>
 <rect class="pg pg0 d0" x="50" y="92" width="140" height="3" rx="1.5" fill="url(#ag)" style="animation-delay:0s"/>
 <rect x="420" y="26" width="370" height="76" rx="14" fill="#0a0a0a" stroke="#2b2f36"/>
-<rect class="hl h1 pn d1" x="420" y="26" width="370" height="76" rx="14" fill="#141414" stroke="url(#ag)" style=""/>
+<rect class="hl h1 pn d1" x="420" y="26" width="370" height="76" rx="14" fill="#0a1530" stroke="url(#ag)" style=""/>
 <circle cx="450" cy="56" r="8" fill="url(#ag)"/>
 <g class="f"><text x="476" y="52" font-size="20" fill="#f0f6fc">RouteWise</text><text x="476" y="78" font-size="13" letter-spacing="2" fill="url(#ag)">INDEXED QUERIES</text></g>
 <rect class="pg pg1 d1" x="440" y="92" width="140" height="3" rx="1.5" fill="url(#ag)" style="animation-delay:4s"/>
 <rect x="810" y="26" width="370" height="76" rx="14" fill="#0a0a0a" stroke="#2b2f36"/>
-<rect class="hl h2 pn d2" x="810" y="26" width="370" height="76" rx="14" fill="#141414" stroke="url(#ag)" style=""/>
+<rect class="hl h2 pn d2" x="810" y="26" width="370" height="76" rx="14" fill="#0a1530" stroke="url(#ag)" style=""/>
 <circle cx="840" cy="56" r="8" fill="url(#ag)"/>
 <g class="f"><text x="866" y="52" font-size="20" fill="#f0f6fc">Prefetcher</text><text x="866" y="78" font-size="13" letter-spacing="2" fill="url(#ag)">EBPF PAGE CACHE</text></g>
 <rect class="pg pg2 d2" x="830" y="92" width="140" height="3" rx="1.5" fill="url(#ag)" style="animation-delay:8s"/>
 <rect x="30" y="122" width="1140" height="1" fill="#2b2f36"/>
 <g class="pn p0 d0 f">
 <text x="60" y="162" font-size="16" letter-spacing="1.5" fill="#c9d1d9">api response time · 500,000+ sensor rows</text>
-<rect x="970" y="138" width="170" height="38" rx="19" fill="#141414" stroke="url(#ag)"/><circle cx="996" cy="157" r="5" fill="url(#ag)"/><text x="1012" y="163" font-size="15" font-weight="700" letter-spacing="2" fill="#ffffff">7x FASTER</text>
+<rect x="970" y="138" width="170" height="38" rx="19" fill="#0a1530" stroke="url(#ag)"/><circle cx="996" cy="157" r="5" fill="url(#ag)"/><text x="1012" y="163" font-size="15" font-weight="700" letter-spacing="2" fill="#ffffff">7x FASTER</text>
 <text x="60" y="210" font-size="14" letter-spacing="1.5" fill="#8b949e">before</text>
 <rect x="60" y="222" width="1080" height="34" rx="6" fill="#0a0a0a"/>
 <rect class="bar d0" x="60" y="222" width="850.0" height="34" rx="6" fill="#484f58"/>
@@ -43,7 +43,7 @@
 </g>
 <g class="pn p1 d1 f">
 <text x="60" y="162" font-size="16" letter-spacing="1.5" fill="#c9d1d9">query speed · relative to unindexed</text>
-<rect x="970" y="138" width="170" height="38" rx="19" fill="#141414" stroke="url(#ag)"/><circle cx="996" cy="157" r="5" fill="url(#ag)"/><text x="1012" y="163" font-size="15" font-weight="700" letter-spacing="2" fill="#ffffff">257x FASTER</text>
+<rect x="970" y="138" width="170" height="38" rx="19" fill="#0a1530" stroke="url(#ag)"/><circle cx="996" cy="157" r="5" fill="url(#ag)"/><text x="1012" y="163" font-size="15" font-weight="700" letter-spacing="2" fill="#ffffff">257x FASTER</text>
 <text x="60" y="210" font-size="14" letter-spacing="1.5" fill="#8b949e">before indexing</text>
 <rect x="60" y="222" width="1080" height="34" rx="6" fill="#0a0a0a"/>
 <rect class="bar d1" x="60" y="222" width="4.0" height="34" rx="6" fill="#484f58"/>
@@ -56,7 +56,7 @@
 </g>
 <g class="pn p2 d2 f">
 <text x="60" y="162" font-size="16" letter-spacing="1.5" fill="#c9d1d9">page cache hit rate</text>
-<rect x="970" y="138" width="170" height="38" rx="19" fill="#141414" stroke="url(#ag)"/><circle cx="996" cy="157" r="5" fill="url(#ag)"/><text x="1012" y="163" font-size="15" font-weight="700" letter-spacing="2" fill="#ffffff">99.25% HIT</text>
+<rect x="970" y="138" width="170" height="38" rx="19" fill="#0a1530" stroke="url(#ag)"/><circle cx="996" cy="157" r="5" fill="url(#ag)"/><text x="1012" y="163" font-size="15" font-weight="700" letter-spacing="2" fill="#ffffff">99.25% HIT</text>
 <text x="60" y="210" font-size="14" letter-spacing="1.5" fill="#8b949e">prefetcher hit rate</text>
 <rect x="60" y="222" width="1080" height="34" rx="6" fill="#0a0a0a"/>
 <rect class="bar d2" x="60" y="222" width="992.5" height="34" rx="6" fill="url(#ag)"/>

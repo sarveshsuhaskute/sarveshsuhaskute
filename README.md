@@ -91,7 +91,7 @@ Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-opti
 
 ## ◆ Console
 
-<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/console-blue.svg?v=2" width="100%" alt="Console: Supertech API 850 ms to 120 ms, RouteWise 257x faster queries, prefetcher 99.25% cache hit rate" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/console-accent.svg?v=1" width="100%" alt="Console: Supertech API 850 ms to 120 ms, RouteWise 257x faster queries, prefetcher 99.25% cache hit rate" /></div>
 
 ## ◆ Stack
 
