@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="GitHub activity: 106 contributions in the last year, 12 active days, longest streak 7 days">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="272" viewBox="0 0 1200 272" role="img" aria-label="GitHub activity: 111 contributions in the last year, 12 active days, longest streak 7 days">
 <style>text{font-family:'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}</style>
-<rect x="1" y="1" width="1198" height="398" rx="18" fill="#000" stroke="#30363d" stroke-width="2"/>
-<text x="40" y="52" font-size="26" font-weight="700" fill="#ffffff">106</text>
+<rect x="1" y="1" width="1198" height="270" rx="18" fill="#000" stroke="#30363d" stroke-width="2"/>
+<text x="40" y="52" font-size="26" font-weight="700" fill="#ffffff">111</text>
 <text x="40" y="74" font-size="13" fill="#8b949e">contributions, last year</text>
 <text x="330" y="52" font-size="26" font-weight="700" fill="#ffffff">12</text>
 <text x="330" y="74" font-size="13" fill="#8b949e">active days</text>
@@ -378,16 +378,5 @@
 <rect x="1132" y="138" width="17" height="17" rx="4" fill="#111111"><title>2026-10-20: 0</title></rect>
 <rect x="1132" y="159" width="17" height="17" rx="4" fill="#2b2f36"><title>2026-10-21: 5</title></rect>
 <rect x="1132" y="180" width="17" height="17" rx="4" fill="#2b2f36"><title>2026-10-22: 5</title></rect>
-<rect x="1132" y="201" width="17" height="17" rx="4" fill="#ffffff"><title>2026-10-23: 45</title></rect>
-<text x="40" y="318" font-size="13" fill="#8b949e">languages across own repositories</text>
-<rect x="40.0" y="330" width="777.5" height="14" rx="4" fill="#ffffff"/>
-<rect x="820.5" y="330" width="290.9" height="14" rx="4" fill="#c9d1d9"/>
-<rect x="1114.4" y="330" width="17.8" height="14" rx="4" fill="#9da7b3"/>
-<rect x="1135.1" y="330" width="13.4" height="14" rx="4" fill="#6e7681"/>
-<rect x="1151.5" y="330" width="4.6" height="14" rx="4" fill="#484f58"/>
-<g transform="translate(40,368)"><circle cx="6" cy="-4" r="6" fill="#ffffff"/><text x="20" y="0" font-size="14" fill="#c9d1d9">Python 69.7%</text></g>
-<g transform="translate(230,368)"><circle cx="6" cy="-4" r="6" fill="#c9d1d9"/><text x="20" y="0" font-size="14" fill="#c9d1d9">HTML 26.2%</text></g>
-<g transform="translate(420,368)"><circle cx="6" cy="-4" r="6" fill="#9da7b3"/><text x="20" y="0" font-size="14" fill="#c9d1d9">JavaScript 1.9%</text></g>
-<g transform="translate(610,368)"><circle cx="6" cy="-4" r="6" fill="#6e7681"/><text x="20" y="0" font-size="14" fill="#c9d1d9">CSS 1.5%</text></g>
-<g transform="translate(800,368)"><circle cx="6" cy="-4" r="6" fill="#484f58"/><text x="20" y="0" font-size="14" fill="#c9d1d9">Shell 0.7%</text></g>
+<rect x="1132" y="201" width="17" height="17" rx="4" fill="#ffffff"><title>2026-10-23: 50</title></rect>
 </svg>
