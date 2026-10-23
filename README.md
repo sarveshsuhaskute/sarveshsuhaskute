@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/banner.svg?v=3" alt="Sarvesh Suhas Kute: B.Tech CSE at VIT Vellore" width="100%" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/hero.svg?v=1" alt="Sarvesh Suhas Kute: B.Tech CSE at VIT Vellore" width="100%" />
 
 <br/>
 
@@ -80,8 +80,3 @@ Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-opti
 
 <img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/divider.svg?v=3" width="100%" alt="" />
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=sarveshsuhaskute&label=Profile+views&color=0b1020&style=flat-square)
-
-</div>
