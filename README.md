@@ -1,31 +1,30 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/hero-purple.svg?v=1" alt="Sarvesh Suhas Kute: Systems, Databases, Networking" width="100%" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/hero-green.svg?v=1" alt="Sarvesh Suhas Kute: Systems, Databases, Networking" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+VIT+Vellore;Linux+internals+%7C+eBPF+%7C+Databases;Flask+%7C+MySQL+%7C+Python+%7C+C;850ms+to+120ms+on+500k%2B+rows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=34D399&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+VIT+Vellore;Linux+internals+%7C+eBPF+%7C+Databases;Flask+%7C+MySQL+%7C+Python+%7C+C;850ms+to+120ms+on+500k%2B+rows" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6d28d9?style=flat-square&labelColor=0f0a1f"/>
-<img src="https://img.shields.io/badge/VIT-Vellore%20%7C%202028-6d28d9?style=flat-square&labelColor=0f0a1f"/>
-<img src="https://img.shields.io/badge/CGPA-9.36-6d28d9?style=flat-square&labelColor=0f0a1f"/>
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-Vellore%2C%20India-6d28d9?style=flat-square&labelColor=0f0a1f"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-059669?style=flat-square&labelColor=07120e"/>
+<img src="https://img.shields.io/badge/VIT-Vellore%20%7C%202028-059669?style=flat-square&labelColor=07120e"/>
+<img src="https://img.shields.io/badge/CGPA-9.36-059669?style=flat-square&labelColor=07120e"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6d28d9"/></a>
-<a href="https://github.com/sarveshsuhaskute"><img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9"/></a>
-<a href="https://sarveshsuhaskute.github.io"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge"/></a>
-<a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-6d28d9?style=for-the-badge"/></a>
-<a href="mailto:sarveshkute21@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6d28d9"/></a>
+<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=059669"/></a>
+<a href="https://github.com/sarveshsuhaskute"><img src="https://img.shields.io/badge/GitHub-059669?style=for-the-badge&logo=github&logoColor=white&labelColor=059669"/></a>
+<a href="https://sarveshsuhaskute.github.io"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge"/></a>
+<a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-059669?style=for-the-badge"/></a>
+<a href="mailto:sarveshkute21@gmail.com"><img src="https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=059669"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sarveshsuhaskute&label=Profile%20Views&color=6d28d9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/sarveshsuhaskute?label=Followers&style=flat-square&color=6d28d9&labelColor=0f0a1f"/>
-<img src="https://img.shields.io/github/stars/sarveshsuhaskute?label=Stars&style=flat-square&color=6d28d9&labelColor=0f0a1f"/>
+<img src="https://komarev.com/ghpvc/?username=sarveshsuhaskute&label=Profile%20Views&color=059669&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/sarveshsuhaskute?label=Followers&style=flat-square&color=059669&labelColor=07120e"/>
+<img src="https://img.shields.io/github/stars/sarveshsuhaskute?label=Stars&style=flat-square&color=059669&labelColor=07120e"/>
 
 </div>
 
@@ -33,7 +32,7 @@
 
 ## ◆ About
 
-<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/terminal.svg?v=6" width="100%" alt="About Sarvesh: B.Tech CSE at VIT Vellore, builds systems, databases and ML. Software engineering intern at Supertech." /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/terminal.svg?v=7" width="100%" alt="About Sarvesh: B.Tech CSE at VIT Vellore, builds systems, databases and ML. Software engineering intern at Supertech." /></div>
 
 ## ◆ Selected Work
 
@@ -92,7 +91,7 @@ Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-opti
 
 ## ◆ Console
 
-<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/console.svg?v=1" width="100%" alt="Console: Supertech API 850 ms to 120 ms, RouteWise 257x faster queries, prefetcher 99.25% cache hit rate" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/console.svg?v=2" width="100%" alt="Console: Supertech API 850 ms to 120 ms, RouteWise 257x faster queries, prefetcher 99.25% cache hit rate" /></div>
 
 ## ◆ Stack
 
