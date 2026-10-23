@@ -1,38 +1,38 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/hero-black.svg?v=1" alt="Sarvesh Suhas Kute: Systems, Databases, Networking" width="100%" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/hero-blue.svg?v=1" alt="Sarvesh Suhas Kute: Systems, Databases, Networking" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+VIT+Vellore;Linux+internals+%7C+eBPF+%7C+Databases;Flask+%7C+MySQL+%7C+Python+%7C+C;850ms+to+120ms+on+500k%2B+rows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+VIT+Vellore;Linux+internals+%7C+eBPF+%7C+Databases;Flask+%7C+MySQL+%7C+Python+%7C+C;850ms+to+120ms+on+500k%2B+rows" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-000000?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/VIT-Vellore%20%7C%202028-000000?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/CGPA-9.36-000000?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-1e3a8a?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/VIT-Vellore%20%7C%202028-1e3a8a?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CGPA-9.36-1e3a8a?style=flat-square&labelColor=000000"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-linkedin.svg?v=2" alt="LinkedIn" /></a>
-<a href="https://github.com/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-github.svg?v=2" alt="GitHub" /></a>
-<a href="https://sarveshsuhaskute.github.io"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-portfolio.svg?v=2" alt="Portfolio" /></a>
-<a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-resume.svg?v=2" alt="Resume" /></a>
-<a href="mailto:sarveshkute21@gmail.com"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-email.svg?v=2" alt="Email" /></a>
+<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/ln-linkedin.svg?v=1" alt="LinkedIn" /></a>
+<a href="https://github.com/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/ln-github.svg?v=1" alt="GitHub" /></a>
+<a href="https://sarveshsuhaskute.github.io"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/ln-portfolio.svg?v=1" alt="Portfolio" /></a>
+<a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/ln-resume.svg?v=1" alt="Resume" /></a>
+<a href="mailto:sarveshkute21@gmail.com"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/ln-email.svg?v=1" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sarveshsuhaskute&label=Profile%20Views&color=000000&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/sarveshsuhaskute?label=Followers&style=flat-square&color=000000&labelColor=000000"/>
-<img src="https://img.shields.io/github/stars/sarveshsuhaskute?label=Stars&style=flat-square&color=000000&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=sarveshsuhaskute&label=Profile%20Views&color=1e3a8a&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/sarveshsuhaskute?label=Followers&style=flat-square&color=1e3a8a&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/sarveshsuhaskute?label=Stars&style=flat-square&color=1e3a8a&labelColor=000000"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/divider.svg?v=8" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/rule.svg?v=1" width="100%" alt="" />
 
 ## ◆ About
 
-<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/terminal.svg?v=11" width="100%" alt="About Sarvesh: B.Tech CSE at VIT Vellore, builds systems, databases and ML. Software engineering intern at Supertech." /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/about.svg?v=1" width="100%" alt="About Sarvesh: B.Tech CSE at VIT Vellore, builds systems, databases and ML. Software engineering intern at Supertech." /></div>
 
 ## ◆ Selected Work
 
@@ -91,7 +91,7 @@ Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-opti
 
 ## ◆ Console
 
-<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/console.svg?v=6" width="100%" alt="Console: Supertech API 850 ms to 120 ms, RouteWise 257x faster queries, prefetcher 99.25% cache hit rate" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/console-blue.svg?v=1" width="100%" alt="Console: Supertech API 850 ms to 120 ms, RouteWise 257x faster queries, prefetcher 99.25% cache hit rate" /></div>
 
 ## ◆ Stack
 
@@ -99,5 +99,5 @@ Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-opti
 <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,react,nodejs,flask,mysql,postgres,linux,docker,git,github,githubactions&theme=dark" alt="skills" />
 </div>
 
-<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/divider.svg?v=8" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/rule.svg?v=1" width="100%" alt="" />
 
