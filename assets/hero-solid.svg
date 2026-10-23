@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Sarvesh Suhas Kute. Systems, Databases, Networking">
 <defs>
-<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#000000"/><stop offset=".55" stop-color="#000000"/><stop offset="1" stop-color="#0b2a6f"/></linearGradient>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#000000"/><stop offset="1" stop-color="#000000"/></linearGradient>
 <style>
 .f{font-family:'Segoe UI',Helvetica,Arial,sans-serif;text-anchor:middle}
 .a{animation:in 1s ease backwards}
