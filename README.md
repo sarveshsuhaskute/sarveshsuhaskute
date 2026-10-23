@@ -32,7 +32,7 @@
 
 ## ◆ About
 
-<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/about.svg?v=2" width="100%" alt="About Sarvesh: B.Tech CSE at VIT Vellore, builds systems, databases and ML. Software engineering intern at Supertech." /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/about-blue.svg?v=1" width="100%" alt="About Sarvesh: B.Tech CSE at VIT Vellore, builds systems, databases and ML. Software engineering intern at Supertech." /></div>
 
 ## ◆ Selected Work
 
