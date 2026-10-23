@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="496" viewBox="0 0 1200 496" role="img" aria-label="About Sarvesh: CSE at VIT Vellore, class of 2028. Focus on Linux internals, databases, networking, eBPF, query optimisation and ML systems. Software engineering intern at Supertech Instrumentation Services.">
 <defs><style>.f{font-family:'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}.k{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style></defs>
-<rect x="1" y="1" width="1198" height="494" rx="18" fill="#07120e" stroke="#1f3a30" stroke-width="2"/>
-<path d="M1 62 V19 a18 18 0 0 1 18 -18 H1181 a18 18 0 0 1 18 18 V62 Z" fill="#10231c"/>
-<rect x="1" y="61" width="1198" height="2" fill="#1f3a30"/>
+<rect x="1" y="1" width="1198" height="494" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M1 62 V19 a18 18 0 0 1 18 -18 H1181 a18 18 0 0 1 18 18 V62 Z" fill="#161b22"/>
+<rect x="1" y="61" width="1198" height="2" fill="#30363d"/>
 <circle cx="40" cy="32" r="8" fill="#c8504f"/><circle cx="68" cy="32" r="8" fill="#c99a3b"/><circle cx="96" cy="32" r="8" fill="#4ea04a"/>
-<g class="f"><text x="600" y="38" text-anchor="middle" font-size="16" fill="#7a958a">sarvesh@vit — ~/about</text>
-<text x="42" y="118" font-size="22" fill="#34d399">$ <tspan fill="#ecfdf5">whoami</tspan></text>
-<text x="42" y="156" font-size="22" fill="#a6bdb4">Sarvesh Suhas Kute · CSE @ VIT Vellore · class of 2028</text>
-<text x="42" y="216" font-size="22" fill="#34d399">$ <tspan fill="#ecfdf5">cat focus.txt</tspan></text>
-<text x="42" y="254" font-size="22" fill="#a6bdb4">linux internals · databases · networking</text>
-<text x="42" y="292" font-size="22" fill="#a6bdb4">eBPF · query optimisation · ML systems</text>
-<text x="42" y="352" font-size="22" fill="#34d399">$ <tspan fill="#ecfdf5">cat experience.txt</tspan></text>
-<text x="42" y="390" font-size="22" fill="#a6bdb4">SWE intern @ Supertech Instrumentation Services</text>
-<text x="42" y="428" font-size="22" fill="#a6bdb4">12 REST APIs · 850 ms → 120 ms on 500k+ rows</text>
-<rect class="k" x="631" y="409" width="14" height="26" fill="#34d399"/></g></svg>
+<g class="f"><text x="600" y="38" text-anchor="middle" font-size="16" fill="#6e7681">sarvesh@vit — ~/about</text>
+<text x="42" y="118" font-size="22" fill="#e6edf3">$ <tspan fill="#f0f6fc">whoami</tspan></text>
+<text x="42" y="156" font-size="22" fill="#9da7b3">Sarvesh Suhas Kute · CSE @ VIT Vellore · class of 2028</text>
+<text x="42" y="216" font-size="22" fill="#e6edf3">$ <tspan fill="#f0f6fc">cat focus.txt</tspan></text>
+<text x="42" y="254" font-size="22" fill="#9da7b3">linux internals · databases · networking</text>
+<text x="42" y="292" font-size="22" fill="#9da7b3">eBPF · query optimisation · ML systems</text>
+<text x="42" y="352" font-size="22" fill="#e6edf3">$ <tspan fill="#f0f6fc">cat experience.txt</tspan></text>
+<text x="42" y="390" font-size="22" fill="#9da7b3">SWE intern @ Supertech Instrumentation Services</text>
+<text x="42" y="428" font-size="22" fill="#9da7b3">12 REST APIs · 850 ms → 120 ms on 500k+ rows</text>
+<rect class="k" x="631" y="409" width="14" height="26" fill="#e6edf3"/></g></svg>
