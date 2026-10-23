@@ -35,7 +35,7 @@ top = sorted(langs.items(), key=lambda kv: -kv[1])[:5]
 
 W, CELL, GAP, X0, Y0 = 1200, 17, 4, 40, 96
 mx = max((d["contributionCount"] for d in days), default=1) or 1
-palette = ["#0f172a", "#1e3a8a", "#2563eb", "#60a5fa", "#bfdbfe"]
+palette = ["#111111", "#2b2f36", "#4b5159", "#9da7b3", "#ffffff"]
 
 
 def level(n):
@@ -55,7 +55,7 @@ for wi, w in enumerate(weeks):
 
 bar_y, bar_w, x = 330, W - 80, 40
 segs, legend = [], []
-shades = ["#2563eb", "#3b82f6", "#60a5fa", "#93c5fd", "#bfdbfe"]
+shades = ["#ffffff", "#c9d1d9", "#9da7b3", "#6e7681", "#484f58"]
 for i, (k, v) in enumerate(top):
     w = bar_w * v / tot
     segs.append(f'<rect x="{x:.1f}" y="{bar_y}" width="{max(w - 3, 2):.1f}" height="14" rx="4" fill="{shades[i]}"/>')
@@ -64,14 +64,14 @@ for i, (k, v) in enumerate(top):
 
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="400" viewBox="0 0 {W} 400" role="img" aria-label="GitHub activity: {total} contributions in the last year, {active} active days, longest streak {longest} days">
 <style>text{{font-family:'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}}</style>
-<rect x="1" y="1" width="{W-2}" height="398" rx="18" fill="#000" stroke="#1e3a8a" stroke-width="2"/>
-<text x="40" y="52" font-size="26" font-weight="700" fill="#60a5fa">{total}</text>
+<rect x="1" y="1" width="{W-2}" height="398" rx="18" fill="#000" stroke="#30363d" stroke-width="2"/>
+<text x="40" y="52" font-size="26" font-weight="700" fill="#ffffff">{total}</text>
 <text x="40" y="74" font-size="13" fill="#8b949e">contributions, last year</text>
-<text x="330" y="52" font-size="26" font-weight="700" fill="#60a5fa">{active}</text>
+<text x="330" y="52" font-size="26" font-weight="700" fill="#ffffff">{active}</text>
 <text x="330" y="74" font-size="13" fill="#8b949e">active days</text>
-<text x="560" y="52" font-size="26" font-weight="700" fill="#60a5fa">{longest}</text>
+<text x="560" y="52" font-size="26" font-weight="700" fill="#ffffff">{longest}</text>
 <text x="560" y="74" font-size="13" fill="#8b949e">day longest streak</text>
-<text x="800" y="52" font-size="26" font-weight="700" fill="#60a5fa">{len(repos)}</text>
+<text x="800" y="52" font-size="26" font-weight="700" fill="#ffffff">{len(repos)}</text>
 <text x="800" y="74" font-size="13" fill="#8b949e">own repositories</text>
 {chr(10).join(cells)}
 <text x="40" y="318" font-size="13" fill="#8b949e">languages across own repositories</text>
