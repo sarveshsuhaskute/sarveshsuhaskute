@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Sarvesh Suhas Kute. Systems, Databases, Networking">
 <defs>
-<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#050b1f"/><stop offset=".25" stop-color="#0c1a4d"/><stop offset=".55" stop-color="#1e3a8a"/><stop offset=".8" stop-color="#2563eb"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#050b1f"/><stop offset=".35" stop-color="#0b1d51"/><stop offset=".75" stop-color="#1e3a8a"/><stop offset="1" stop-color="#1e40af"/></linearGradient>
 <style>
 .f{font-family:'Segoe UI',Helvetica,Arial,sans-serif;text-anchor:middle}
 .a{animation:in 1s ease backwards}
@@ -16,6 +16,6 @@
 <path class="w2" d="M-80 250 C 150 210, 350 270, 600 240 S 1000 215, 1280 250 L1280 300 L-80 300Z" fill="#0d1117" fill-opacity=".55"/>
 <path class="w1" d="M-80 268 C 200 240, 420 285, 640 262 S 1020 245, 1280 270 L1280 300 L-80 300Z" fill="#0d1117"/>
 <g class="f">
-<text class="a" x="600" y="140" font-size="62" font-weight="800" fill="#dbeafe" style="animation-delay:.2s">Sarvesh Suhas Kute</text>
-<text class="a" x="600" y="190" font-size="26" font-weight="600" fill="#eff6ff" style="animation-delay:.7s">Systems | Databases | Networking</text>
+<text class="a" x="600" y="140" font-size="62" font-weight="800" fill="#e0ecff" style="animation-delay:.2s">Sarvesh Suhas Kute</text>
+<text class="a" x="600" y="190" font-size="26" font-weight="600" fill="#bfd4ff" style="animation-delay:.7s">Systems | Databases | Networking</text>
 </g></g></svg>
