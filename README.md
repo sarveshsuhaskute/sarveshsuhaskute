@@ -15,11 +15,11 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://img.shields.io/badge/LinkedIn-1e40af?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220"/></a>
-<a href="https://github.com/sarveshsuhaskute"><img src="https://img.shields.io/badge/GitHub-Follow-1e40af?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220"/></a>
+<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://img.shields.io/badge/LinkedIn-1e40af?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e40af"/></a>
+<a href="https://github.com/sarveshsuhaskute"><img src="https://img.shields.io/badge/GitHub-1e40af?style=for-the-badge&logo=github&logoColor=white&labelColor=1e40af"/></a>
 <a href="https://sarveshsuhaskute.github.io"><img src="https://img.shields.io/badge/Portfolio-1e40af?style=for-the-badge"/></a>
 <a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-1e40af?style=for-the-badge"/></a>
-<a href="mailto:sarveshkute21@gmail.com"><img src="https://img.shields.io/badge/Email-1e40af?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220"/></a>
+<a href="mailto:sarveshkute21@gmail.com"><img src="https://img.shields.io/badge/Email-1e40af?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e40af"/></a>
 
 <br/><br/>
 
