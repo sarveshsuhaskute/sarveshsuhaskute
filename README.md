@@ -2,6 +2,10 @@
 
 <img src="assets/banner.svg" alt="Sarvesh Suhas Kute: B.Tech CSE at VIT Vellore" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=5EEAD4&center=true&vCenter=true&width=900&height=45&lines=Systems+%7C+Databases+%7C+Networking;Linux+internals+and+eBPF;12+REST+APIs%2C+850ms+to+120ms;257x+faster+queries+with+indexing" alt="typing" />
+
+<br/>
+
 <a href="https://sarveshsuhaskute.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=githubpages&logoColor=7aa2f7" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
 <a href="mailto:sarveshkute21@gmail.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email" /></a>
@@ -9,14 +13,13 @@
 
 </div>
 
-## About
+<img src="assets/divider.svg" width="100%" alt="" />
 
-Curious by nature, builder by habit. Most of my projects start with a question: how does a DNS server answer a query, how does Linux decide what to cache, how do you keep a seat from being booked twice.
+<img src="assets/h-about.svg" width="100%" alt="about" />
 
-- B.Tech Computer Science at VIT Vellore, 2024–2028, CGPA 9.36
-- Software Engineering Intern at Supertech Instrumentation Services, May–Jul 2026: built 12 REST APIs and a React dashboard, cutting response time from 850 ms to 120 ms on 500,000+ rows of sensor data
+<div align="center"><img src="assets/terminal.svg" width="100%" alt="About Sarvesh: B.Tech CSE at VIT Vellore, builds systems, databases and ML. Software engineering intern at Supertech." /></div>
 
-## Selected work
+<img src="assets/h-work.svg" width="100%" alt="selected work" />
 
 <table>
 <tr>
@@ -71,21 +74,13 @@ Local bug-repair system where two fixers, a critic and a judge debate a patch. O
 
 Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-optimization-for-llm) (team), with 9 optimisation techniques on a computation-graph IR.
 
-## Stack
+<img src="assets/h-stack.svg" width="100%" alt="stack" />
 
-![Python](https://img.shields.io/badge/Python-0b1020?style=flat-square&logo=python&logoColor=7aa2f7)
-![C/C++](https://img.shields.io/badge/C/C++-0b1020?style=flat-square&logo=cplusplus&logoColor=7aa2f7)
-![SQL](https://img.shields.io/badge/SQL-0b1020?style=flat-square&logo=postgresql&logoColor=7aa2f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b1020?style=flat-square&logo=javascript&logoColor=7aa2f7)
-![Java](https://img.shields.io/badge/Java-0b1020?style=flat-square&logo=openjdk&logoColor=7aa2f7)
-![React](https://img.shields.io/badge/React-0b1020?style=flat-square&logo=react&logoColor=7aa2f7)
-![Node.js](https://img.shields.io/badge/Node.js-0b1020?style=flat-square&logo=nodedotjs&logoColor=7aa2f7)
-![Flask](https://img.shields.io/badge/Flask-0b1020?style=flat-square&logo=flask&logoColor=7aa2f7)
-![MySQL](https://img.shields.io/badge/MySQL-0b1020?style=flat-square&logo=mysql&logoColor=7aa2f7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1020?style=flat-square&logo=postgresql&logoColor=7aa2f7)
-![Linux](https://img.shields.io/badge/Linux-0b1020?style=flat-square&logo=linux&logoColor=7aa2f7)
-![Docker](https://img.shields.io/badge/Docker-0b1020?style=flat-square&logo=docker&logoColor=7aa2f7)
-![Git](https://img.shields.io/badge/Git-0b1020?style=flat-square&logo=git&logoColor=7aa2f7)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,react,nodejs,flask,mysql,postgres,linux,docker,git,github,githubactions&theme=dark" alt="skills" />
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
