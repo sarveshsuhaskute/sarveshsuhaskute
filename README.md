@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/hero-bw.svg?v=1" alt="Sarvesh Suhas Kute: Systems, Databases, Networking" width="100%" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/hero-black.svg?v=1" alt="Sarvesh Suhas Kute: Systems, Databases, Networking" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+VIT+Vellore;Linux+internals+%7C+eBPF+%7C+Databases;Flask+%7C+MySQL+%7C+Python+%7C+C;850ms+to+120ms+on+500k%2B+rows" alt="Typing SVG" />
@@ -8,23 +8,23 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-161b22?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/VIT-Vellore%20%7C%202028-161b22?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/CGPA-9.36-161b22?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-000000?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/VIT-Vellore%20%7C%202028-000000?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CGPA-9.36-000000?style=flat-square&labelColor=000000"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-linkedin.svg?v=1" alt="LinkedIn" /></a>
-<a href="https://github.com/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-github.svg?v=1" alt="GitHub" /></a>
-<a href="https://sarveshsuhaskute.github.io"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-portfolio.svg?v=1" alt="Portfolio" /></a>
-<a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-resume.svg?v=1" alt="Resume" /></a>
-<a href="mailto:sarveshkute21@gmail.com"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-email.svg?v=1" alt="Email" /></a>
+<a href="https://linkedin.com/in/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-linkedin.svg?v=2" alt="LinkedIn" /></a>
+<a href="https://github.com/sarveshsuhaskute"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-github.svg?v=2" alt="GitHub" /></a>
+<a href="https://sarveshsuhaskute.github.io"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-portfolio.svg?v=2" alt="Portfolio" /></a>
+<a href="https://sarveshsuhaskute.github.io/resume.pdf"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-resume.svg?v=2" alt="Resume" /></a>
+<a href="mailto:sarveshkute21@gmail.com"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/link-email.svg?v=2" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sarveshsuhaskute&label=Profile%20Views&color=161b22&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/sarveshsuhaskute?label=Followers&style=flat-square&color=161b22&labelColor=000000"/>
-<img src="https://img.shields.io/github/stars/sarveshsuhaskute?label=Stars&style=flat-square&color=161b22&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=sarveshsuhaskute&label=Profile%20Views&color=000000&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/sarveshsuhaskute?label=Followers&style=flat-square&color=000000&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/sarveshsuhaskute?label=Stars&style=flat-square&color=000000&labelColor=000000"/>
 
 </div>
 
