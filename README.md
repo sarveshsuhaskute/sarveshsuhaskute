@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/hero-solid.svg?v=1" alt="Sarvesh Suhas Kute: Systems, Databases, Networking" width="100%" />
+<img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/hero-tagline.svg?v=1" alt="Sarvesh Suhas Kute: Systems, Databases, Networking" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+VIT+Vellore;Linux+internals+%7C+eBPF+%7C+Databases;Flask+%7C+MySQL+%7C+Python+%7C+C;850ms+to+120ms+on+500k%2B+rows" alt="Typing SVG" />
