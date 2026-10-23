@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/banner.svg?v=3" alt="Sarvesh Suhas Kute: B.Tech CSE at VIT Vellore" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=5EEAD4&center=true&vCenter=true&width=900&height=45&lines=Systems+%7C+Databases+%7C+Networking;Linux+internals+and+eBPF;12+REST+APIs%2C+850ms+to+120ms;257x+faster+queries+with+indexing" alt="typing" />
-
 <br/>
 
 <a href="https://sarveshsuhaskute.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=githubpages&logoColor=7aa2f7" alt="Portfolio" /></a>
