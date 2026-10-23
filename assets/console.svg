@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Console: Supertech API 850 ms to 120 ms on 500,000+ rows, RouteWise 257x faster queries after indexing, file prefetcher 99.25% cache hit rate matching kernel readahead.">
+<defs><style>
+.f{font-family:'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.p1,.p2,.h1,.h2{opacity:0}
+.pn{animation:slot 12s infinite}
+.d1{animation-delay:4s}.d2{animation-delay:8s}
+@keyframes slot{0%{opacity:1}30%{opacity:1}33.3%{opacity:0}100%{opacity:0}}
+.bar{transform-box:fill-box;transform-origin:0 50%;animation:gr 12s infinite}
+@keyframes gr{0%{transform:scaleX(0)}7%{transform:scaleX(1)}100%{transform:scaleX(1)}}
+.pg{transform-box:fill-box;transform-origin:0 50%;animation:pr 12s linear infinite}
+.pg1,.pg2{transform:scaleX(0)}
+@keyframes pr{0%{transform:scaleX(0)}33.3%{transform:scaleX(1)}33.4%,100%{transform:scaleX(0)}}
+</style></defs>
+<rect x="1" y="1" width="1198" height="438" rx="22" fill="#0f0a1f" stroke="#2e2548" stroke-width="2"/>
+<rect x="30" y="26" width="370" height="76" rx="14" fill="#161026" stroke="#2a2142"/>
+<rect class="hl h0 pn d0" x="30" y="26" width="370" height="76" rx="14" fill="#241a42" stroke="#a78bfa" style="opacity:1"/>
+<circle cx="60" cy="56" r="8" fill="#a78bfa"/>
+<g class="f"><text x="86" y="52" font-size="20" fill="#f1ecff">Supertech API</text><text x="86" y="78" font-size="13" letter-spacing="2" fill="#a78bfa">PLANT DASHBOARD</text></g>
+<rect class="pg pg0 d0" x="50" y="92" width="140" height="3" rx="1.5" fill="#a78bfa" style="animation-delay:0s"/>
+<rect x="420" y="26" width="370" height="76" rx="14" fill="#161026" stroke="#2a2142"/>
+<rect class="hl h1 pn d1" x="420" y="26" width="370" height="76" rx="14" fill="#241a42" stroke="#a78bfa" style=""/>
+<circle cx="450" cy="56" r="8" fill="#a78bfa"/>
+<g class="f"><text x="476" y="52" font-size="20" fill="#f1ecff">RouteWise</text><text x="476" y="78" font-size="13" letter-spacing="2" fill="#a78bfa">INDEXED QUERIES</text></g>
+<rect class="pg pg1 d1" x="440" y="92" width="140" height="3" rx="1.5" fill="#a78bfa" style="animation-delay:4s"/>
+<rect x="810" y="26" width="370" height="76" rx="14" fill="#161026" stroke="#2a2142"/>
+<rect class="hl h2 pn d2" x="810" y="26" width="370" height="76" rx="14" fill="#241a42" stroke="#a78bfa" style=""/>
+<circle cx="840" cy="56" r="8" fill="#a78bfa"/>
+<g class="f"><text x="866" y="52" font-size="20" fill="#f1ecff">Prefetcher</text><text x="866" y="78" font-size="13" letter-spacing="2" fill="#a78bfa">EBPF PAGE CACHE</text></g>
+<rect class="pg pg2 d2" x="830" y="92" width="140" height="3" rx="1.5" fill="#a78bfa" style="animation-delay:8s"/>
+<rect x="30" y="122" width="1140" height="1" fill="#2a2142"/>
+<g class="pn p0 d0 f">
+<text x="60" y="162" font-size="16" letter-spacing="1.5" fill="#cfc7ea">api response time · 500,000+ sensor rows</text>
+<rect x="970" y="138" width="170" height="38" rx="19" fill="#2b1a45" stroke="#a78bfa"/><circle cx="996" cy="157" r="5" fill="#a78bfa"/><text x="1012" y="163" font-size="15" font-weight="700" letter-spacing="2" fill="#c4b5fd">7x FASTER</text>
+<text x="60" y="210" font-size="14" letter-spacing="1.5" fill="#8f87ad">before</text>
+<rect x="60" y="222" width="1080" height="34" rx="6" fill="#161026"/>
+<rect class="bar d0" x="60" y="222" width="850.0" height="34" rx="6" fill="#4a3f6b"/>
+<text x="924.0" y="245" text-anchor="start" font-size="17" font-weight="700" fill="#f1ecff">850 ms</text>
+<text x="60" y="294" font-size="14" letter-spacing="1.5" fill="#8f87ad">after</text>
+<rect x="60" y="306" width="1080" height="34" rx="6" fill="#161026"/>
+<rect class="bar d0" x="60" y="306" width="120.0" height="34" rx="6" fill="#a78bfa"/>
+<text x="194.0" y="329" text-anchor="start" font-size="17" font-weight="700" fill="#f1ecff">120 ms</text>
+<text x="60" y="406" font-size="14" fill="#8f87ad">12 REST APIs · React dashboard · Node.js · PostgreSQL</text>
+</g>
+<g class="pn p1 d1 f">
+<text x="60" y="162" font-size="16" letter-spacing="1.5" fill="#cfc7ea">query speed · relative to unindexed</text>
+<rect x="970" y="138" width="170" height="38" rx="19" fill="#2b1a45" stroke="#a78bfa"/><circle cx="996" cy="157" r="5" fill="#a78bfa"/><text x="1012" y="163" font-size="15" font-weight="700" letter-spacing="2" fill="#c4b5fd">257x FASTER</text>
+<text x="60" y="210" font-size="14" letter-spacing="1.5" fill="#8f87ad">before indexing</text>
+<rect x="60" y="222" width="1080" height="34" rx="6" fill="#161026"/>
+<rect class="bar d1" x="60" y="222" width="4.0" height="34" rx="6" fill="#4a3f6b"/>
+<text x="78.0" y="245" text-anchor="start" font-size="17" font-weight="700" fill="#f1ecff">1x</text>
+<text x="60" y="294" font-size="14" letter-spacing="1.5" fill="#8f87ad">after indexing</text>
+<rect x="60" y="306" width="1080" height="34" rx="6" fill="#161026"/>
+<rect class="bar d1" x="60" y="306" width="1000.0" height="34" rx="6" fill="#a78bfa"/>
+<text x="1046.0" y="329" text-anchor="end" font-size="17" font-weight="700" fill="#0f0a1f">257x</text>
+<text x="60" y="406" font-size="14" fill="#8f87ad">19-table BCNF schema · 30 triggers · row-locked seat booking</text>
+</g>
+<g class="pn p2 d2 f">
+<text x="60" y="162" font-size="16" letter-spacing="1.5" fill="#cfc7ea">page cache hit rate</text>
+<rect x="970" y="138" width="170" height="38" rx="19" fill="#2b1a45" stroke="#a78bfa"/><circle cx="996" cy="157" r="5" fill="#a78bfa"/><text x="1012" y="163" font-size="15" font-weight="700" letter-spacing="2" fill="#c4b5fd">99.25% HIT</text>
+<text x="60" y="210" font-size="14" letter-spacing="1.5" fill="#8f87ad">prefetcher hit rate</text>
+<rect x="60" y="222" width="1080" height="34" rx="6" fill="#161026"/>
+<rect class="bar d2" x="60" y="222" width="992.5" height="34" rx="6" fill="#a78bfa"/>
+<text x="1038.5" y="245" text-anchor="end" font-size="17" font-weight="700" fill="#0f0a1f">99.25%</text>
+<text x="60" y="406" font-size="14" fill="#8f87ad">matches kernel readahead · traced a 26% throughput loss to its root cause</text>
+</g>
+</svg>

@@ -90,6 +90,10 @@ Local bug-repair system where two fixers, a critic and a judge debate a patch. O
 
 Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-optimization-for-llm) (team), with 9 optimisation techniques on a computation-graph IR.
 
+## ◆ Console
+
+<div align="center"><img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/console.svg?v=1" width="100%" alt="Console: Supertech API 850 ms to 120 ms, RouteWise 257x faster queries, prefetcher 99.25% cache hit rate" /></div>
+
 ## ◆ Stack
 
 <div align="center">
