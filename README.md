@@ -96,7 +96,57 @@ Also: [LLM Compiler Optimizer](https://github.com/sarveshsuhaskute/compiler-opti
 ## ◆ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,react,nodejs,flask,mysql,postgres,linux,docker,git,github,githubactions&theme=dark" alt="skills" />
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&labelColor=1e3a8a&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C-2563eb?style=for-the-badge&labelColor=2563eb&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-1e3a8a?style=for-the-badge&labelColor=1e3a8a&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/JavaScript-2563eb?style=for-the-badge&labelColor=2563eb&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Java-1e3a8a?style=for-the-badge&labelColor=1e3a8a&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/SQL-2563eb?style=for-the-badge&labelColor=2563eb" alt="SQL"/>
+<br/><br/>
+
+**Backend & Web**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-1e3a8a?style=for-the-badge&labelColor=1e3a8a&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-2563eb?style=for-the-badge&labelColor=2563eb&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Flask-1e3a8a?style=for-the-badge&labelColor=1e3a8a&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/React-2563eb?style=for-the-badge&labelColor=2563eb&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-1e3a8a?style=for-the-badge&labelColor=1e3a8a&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/JWT-2563eb?style=for-the-badge&labelColor=2563eb&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-1e3a8a?style=for-the-badge&labelColor=1e3a8a&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2563eb?style=for-the-badge&labelColor=2563eb&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<br/><br/>
+
+**Systems & Networking**
+<br/>
+<img src="https://img.shields.io/badge/Linux-1e3a8a?style=for-the-badge&labelColor=1e3a8a&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/eBPF-2563eb?style=for-the-badge&labelColor=2563eb" alt="eBPF"/>
+<img src="https://img.shields.io/badge/POSIX-1e3a8a?style=for-the-badge&labelColor=1e3a8a" alt="POSIX"/>
+<img src="https://img.shields.io/badge/TCP%2FUDP-2563eb?style=for-the-badge&labelColor=2563eb" alt="TCP/UDP"/>
+<img src="https://img.shields.io/badge/DNS-1e3a8a?style=for-the-badge&labelColor=1e3a8a" alt="DNS"/>
+<br/><br/>
+
+**AI & ML**
+<br/>
+<img src="https://img.shields.io/badge/LLMs-2563eb?style=for-the-badge&labelColor=2563eb" alt="LLMs"/>
+<img src="https://img.shields.io/badge/LoRA-1e3a8a?style=for-the-badge&labelColor=1e3a8a" alt="LoRA"/>
+<img src="https://img.shields.io/badge/MLX-2563eb?style=for-the-badge&labelColor=2563eb" alt="MLX"/>
+<img src="https://img.shields.io/badge/Markov%20Models-1e3a8a?style=for-the-badge&labelColor=1e3a8a" alt="Markov Models"/>
+<br/><br/>
+
+**DevOps & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-2563eb?style=for-the-badge&labelColor=2563eb&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-1e3a8a?style=for-the-badge&labelColor=1e3a8a&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2563eb?style=for-the-badge&labelColor=2563eb&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<br/><br/>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/sarveshsuhaskute/sarveshsuhaskute/main/assets/rule.svg?v=1" width="100%" alt="" />
